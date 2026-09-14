@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background: #07150f;
+  color: #eef7ea;
+  font-family: Inter, 'Segoe UI', Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+img {
+  max-width: 100%;
+}
+
+#root {
+  min-height: 100vh;
+}
